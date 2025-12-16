@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=520&lines=Hey+there%2C+I'm+Monish;From+Pixels+to+PCBs;Building+Software+%26+Hardware" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=520&lines=Hey+there%2C+I'm+Monish;Building+Software+%26+Hardware" />
 </h1>
 
 <h3 align="center"><i>Java & Python Developer · Frontend & PCB Design</i></h3> 
